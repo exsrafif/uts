@@ -1,0 +1,32 @@
+{
+  "shirt": [
+    {
+      "name": "Space T-Shirt",
+      "price": "52.00"
+    },
+    {
+      "name": "Embroidered Logo T-shirt",
+      "price": "56.00"
+    }
+  ],
+  "pant": [
+    {
+      "name": "Why Are You Sad Again Joggers",
+      "price": "86.00"
+    },
+    {
+      "name": "Space Joggers",
+      "price": "52.00"
+    }
+  ],
+  "jacket": [
+    {
+      "name": "Why Are You Sad Again Hoodie",
+      "price": "108.00"
+    },
+    {
+      "name": "Space Quarter Zip Sweatshirt",
+      "price": "108.00"
+    }
+  ]
+}
